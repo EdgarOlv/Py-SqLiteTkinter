@@ -4,7 +4,7 @@ from tkinter import *
 import sqlite3
 from tkinter import messagebox
 
-
+  
 class Main:
     def __init__(self,master):
         self.frame = Frame(master)

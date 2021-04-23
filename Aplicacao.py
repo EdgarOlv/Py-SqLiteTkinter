@@ -53,7 +53,7 @@ class Main:
         self.listbox.delete(ANCHOR)
 
 root = Tk()
-root.geometry("300x400")
+root.geometry("300x500")
 Main(root)
 root.mainloop()
 
